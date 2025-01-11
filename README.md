@@ -26,7 +26,7 @@ Administrator privileges: You may need administrator privileges to install the l
 Download Link
 
 OneDrive: https://1drv.ms/f/c/6a60dda293c89327/EjOsBhZL2-tGk0hXYGCLnHMBq9J3F-1Bxn7quKKnv4tePA?e=PsdOxy
-Update Log
+
 
 January 11, 2025: Initial commit, including the above language packs.
 Disclaimer
